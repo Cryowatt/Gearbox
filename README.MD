@@ -178,3 +178,10 @@ Include in the design the relationship between the classes, the hierarchy, and a
 >    fn list_items() -> Iter<(InventoryItem, u16)>
 > }
 > ```
+
+
+## Game deveopment industry
+* If you have not worked in the game development industry, why are you interested in a game development job?
+    * If you have worked in game development, what do you most enjoy about it?
+
+> I would say mostly no, but I have actually made and sold a game a _long_ time ago. It was a pentomino puzzle game for Windows Mobile. Pretty sure I sold 2 copies, but it wasn't enough revenue for the online store to cut a check. Honestly I'm mostly doing this as an elaborate joke that probably I will only find funny. Like who the hell digs up and submits a programmer exam two decades late? I'm currently semi-retired and I have my own business that maybe someday will generate some passive income. Might be nice to have a plan-B ready back in my homeland (Gearbox is still in Quebec?).
